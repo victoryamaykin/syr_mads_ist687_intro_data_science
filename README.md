@@ -1,1 +1,3 @@
-# syr_mads_ist687_intro_data_science
+# Victor Yamaykin (Graduate Student - Course Work Repository)
+
+![Linkedin profile](https://www.linkedin.com/in/victor-yamaykin/)
